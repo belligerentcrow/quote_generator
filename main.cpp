@@ -6,7 +6,7 @@
 #include "quoteHeader.h"
 using namespace std; 
 
-#define N 4
+#define N 5
 
 void splitQuoteInfo(string str, string content[]){
     char delim = '-'; 
